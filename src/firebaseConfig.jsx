@@ -5,12 +5,13 @@ import { getFirestore } from "firebase/firestore";
 
 // Tu configuración de Firebase (con la info que obtuviste en la consola de Firebase)
 const firebaseConfig = {
-    apiKey: "AIzaSyClDY40vOaM3q2MXhbPYQuiHeJd-NAIRCw",
-    authDomain: "basededatos-3d57d.firebaseapp.com",
-    projectId: "basededatos-3d57d",
-    storageBucket: "basededatos-3d57d.firebasestorage.app",
-    messagingSenderId: "383044378498",
-    appId: "1:383044378498:web:9fb92628f8be6d5db6399b"
+    apiKey: "AIzaSyAphrLdNrDnOyFJwY6dVD8oJTTYA-DXAME",
+    authDomain: "juego-db.firebaseapp.com",
+    projectId: "juego-db",
+    storageBucket: "juego-db.firebasestorage.app",
+    messagingSenderId: "967613130349",
+    appId: "1:967613130349:web:2f4c21392cad7d6dc60164",
+    measurementId: "G-64PBJ1EJX4"
 };
 
 // Inicializa Firebase
